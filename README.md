@@ -1,2 +1,4 @@
 # hello-world
-Just another repositiroy
+Noob here.
+
+Hoping I can do this without getting flamed
